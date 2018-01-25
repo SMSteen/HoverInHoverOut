@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 875px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border: 2px solid #a5acaf
+}
